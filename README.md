@@ -5,7 +5,6 @@
 <title>InfoFem</title>
 <style>
 h2{text-align: center;
-
 }
 </style>
 </head>
